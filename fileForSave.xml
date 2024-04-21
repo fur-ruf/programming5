@@ -1,0 +1,34 @@
+<set>
+  <classes.Organization>
+    <id>2</id>
+    <name>huhjf</name>
+    <coordinates>
+      <x>1.0</x>
+      <y>3.0</y>
+    </coordinates>
+    <creationDate>2024-04-21</creationDate>
+    <annualTurnover>2132.0</annualTurnover>
+    <employeesCount>123</employeesCount>
+    <type>PUBLIC</type>
+    <officialAddress>
+      <street>hdf</street>
+      <zipCode>hd</zipCode>
+    </officialAddress>
+  </classes.Organization>
+  <classes.Organization>
+    <id>3</id>
+    <name>fngj</name>
+    <coordinates>
+      <x>1.0</x>
+      <y>3.0</y>
+    </coordinates>
+    <creationDate>2024-04-21</creationDate>
+    <annualTurnover>223.0</annualTurnover>
+    <employeesCount>2321</employeesCount>
+    <type>PUBLIC</type>
+    <officialAddress>
+      <street>jdfjf</street>
+      <zipCode>kjf</zipCode>
+    </officialAddress>
+  </classes.Organization>
+</set>
